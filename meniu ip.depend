@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1610814143 source:f:\info facultate\meniu ip\main.cpp
+	<iostream>
+	<fstream>
+	<stdio.h>
+	<graphics.h>
+	<winbgim.h>
+	<string>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<cmath>
+
